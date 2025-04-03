@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Hello Streamlit 👋")
+st.title("Hello TripleTen 👋")
 
 import pandas as pd
 import plotly.express as px
