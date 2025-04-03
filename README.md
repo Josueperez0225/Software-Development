@@ -21,3 +21,6 @@ Built with: Python, Streamlit, Plotly Express, Pandas.
 
 4. Run the app:
    streamlit run app.py
+
+   or try this:
+   https://software-development-pv84.onrender.com/
